@@ -1,0 +1,312 @@
+[18:50:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:50:18] [ServerMain/INFO]: Loaded 7 recipes
+[18:50:18] [ServerMain/INFO]: Loaded 1271 advancements
+[18:50:18] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[18:50:18] [Server thread/INFO]: Loading properties
+[18:50:18] [Server thread/INFO]: Default game type: SURVIVAL
+[18:50:18] [Server thread/INFO]: Generating keypair
+[18:50:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:50:18] [Server thread/INFO]: Using epoll channel type
+[18:50:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:50:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:50:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:50:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:50:18] [Server thread/INFO]: Preparing level "world"
+[18:50:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:50:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:50:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:50:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:50:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:50:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:50:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:50:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:50:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:50:25] [Worker-Main-2/INFO]: Preparing spawn area: 66%
+[18:50:25] [Server thread/INFO]: Time elapsed: 4199 ms
+[18:50:25] [Server thread/INFO]: Done (6.718s)! For help, type "help"
+[18:52:00] [Server thread/INFO]: BruceHL[/127.64.240.62:51155] logged in with entity id 220 at (-24.440152410514138, 92.0, 0.03786092951204764)
+[18:52:00] [Server thread/INFO]: BruceHL joined the game
+[18:55:49] [Server thread/INFO]: TUPAPISLEYTER[/127.62.31.12:36717] logged in with entity id 634 at (6.5, 84.0, 2.5)
+[18:55:49] [Server thread/INFO]: TUPAPISLEYTER joined the game
+[18:56:24] [Server thread/INFO]: [Not Secure] <BruceHL> pero escribe por aqui coño
+[18:56:25] [Server thread/INFO]: [Not Secure] <BruceHL> xd
+[18:56:29] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> messi
+[18:56:35] [Server thread/INFO]: [Not Secure] <BruceHL> dontas
+[18:56:40] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> ñose
+[18:56:44] [Server thread/INFO]: [Not Secure] <BruceHL> pasa coords
+[18:56:45] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> en el spawn
+[18:57:33] [Server thread/INFO]: BruceHL has made the advancement [Stone Age]
+[18:57:40] [Server thread/INFO]: [Not Secure] <BruceHL> xd
+[18:57:49] [Server thread/INFO]: [Not Secure] <BruceHL> pasa coords coño
+[18:57:52] [Server thread/INFO]: [Not Secure] <BruceHL> 4gb de ram
+[18:59:01] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> -5 85 -27
+[18:59:09] [Server thread/INFO]: [Not Secure] <BruceHL> te va bien?
+[18:59:23] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> ci
+[18:59:27] [Server thread/INFO]: [Not Secure] <BruceHL> aver rompe un bloque
+[18:59:31] [Server thread/INFO]: [Not Secure] <BruceHL> se rompe al instante?
+[18:59:31] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> pero se me lagea por ratos
+[18:59:49] [Server thread/INFO]: [Not Secure] <BruceHL> xd
+[18:59:52] [Server thread/INFO]: [Not Secure] <BruceHL> es tu internet
+[19:00:01] [Server thread/INFO]: [Not Secure] <BruceHL> emoji de indigena
+[19:00:02] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> pasa piedra
+[19:00:05] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xddddddddddddddddddddddddddd
+[19:00:06] [Server thread/INFO]: BruceHL has made the advancement [Getting an Upgrade]
+[19:00:16] [Server thread/INFO]: TUPAPISLEYTER has made the advancement [Stone Age]
+[19:00:26] [Server thread/INFO]: TUPAPISLEYTER has made the advancement [Getting an Upgrade]
+[19:00:33] [Server thread/INFO]: BruceHL has made the advancement [Monster Hunter]
+[19:00:52] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> orita se van a ir mis papas pa armar el setup
+[19:01:03] [Server thread/INFO]: [Not Secure] <BruceHL> pero te vas ir al snyder xd
+[19:01:10] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> a
+[19:01:15] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> 3:30
+[19:01:18] [Server thread/INFO]: [Not Secure] <BruceHL> no vayas
+[19:01:22] [Server thread/INFO]: [Not Secure] <BruceHL> emoji de indigena
+[19:01:23] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xd
+[19:01:26] [Server thread/INFO]: [Not Secure] <BruceHL> a verdad
+[19:01:33] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> voy a cortarle al alexito
+[19:01:34] [Server thread/INFO]: [Not Secure] <BruceHL> tienes que ver a la chibola
+[19:01:40] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> no va tar xd
+[19:01:44] [Server thread/INFO]: [Not Secure] <BruceHL> ª
+[19:01:48] [Server thread/INFO]: [Not Secure] <BruceHL> no vayas
+[19:01:49] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> le enseñan en la mñn
+[19:02:08] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> los lunes;miercoles y viernes
+[19:02:19] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> haci q
+[19:02:30] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> si queires q te corte elije unos de esos dias
+[19:02:38] [Server thread/INFO]: [Not Secure] <BruceHL> emoji de indigena
+[19:02:39] [Server thread/INFO]: [Not Secure] <BruceHL> pero
+[19:02:43] [Server thread/INFO]: [Not Secure] <BruceHL> yo me voy a cortar en marzo
+[19:02:52] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> ella va estar 3 meses
+[19:02:57] [Server thread/INFO]: [Not Secure] <BruceHL> que rico
+[19:02:59] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> x
+[19:03:01] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> d
+[19:03:21] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> lo veo muy grande
+[19:03:27] [Server thread/INFO]: [Not Secure] <BruceHL> q
+[19:03:33] [Server thread/INFO]: [Not Secure] <BruceHL> bro
+[19:03:35] [Server thread/INFO]: [Not Secure] <BruceHL> foto pal feis
+[19:04:40] [Server thread/INFO]: [Not Secure] <BruceHL> bro
+[19:04:44] [Server thread/INFO]: [Not Secure] <BruceHL> me pase de makanaky
+[19:04:47] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xd
+[19:04:48] [Server thread/INFO]: [Not Secure] <BruceHL> apague el teclado
+[19:04:50] [Server thread/INFO]: [Not Secure] <BruceHL> xdddddddddddddddddddddddddddddddddd
+[19:04:53] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+[19:06:02] [Server thread/INFO]: [Not Secure] <BruceHL> vamos a buscar aldea
+[19:06:08] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> vamos
+[19:06:19] [Server thread/INFO]: [Not Secure] <BruceHL> tengo hambre lptm
+[19:06:22] [Server thread/INFO]: [Not Secure] <BruceHL> a
+[19:07:16] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> mtr
+[19:07:18] [Server thread/INFO]: [Not Secure] <BruceHL> q
+[19:07:32] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> me falla la tecl pa correr
+[19:07:43] [Server thread/INFO]: [Not Secure] <BruceHL> xdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+[19:07:46] [Server thread/INFO]: [Not Secure] <BruceHL> xdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+[19:07:51] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> cuanto te costo tu teclado
+[19:07:51] [Server thread/INFO]: [Not Secure] <BruceHL> xdeddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+[19:07:57] [Server thread/INFO]: [Not Secure] <BruceHL> xddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+[19:08:02] [Server thread/INFO]: [Not Secure] <BruceHL> xdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+[19:08:06] [Server thread/INFO]: [Not Secure] <BruceHL> ahi tengo un teclado
+[19:08:13] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> gamer?
+[19:08:14] [Server thread/INFO]: [Not Secure] <BruceHL> cuanto das
+[19:08:19] [Server thread/INFO]: [Not Secure] <BruceHL> con luces
+[19:08:22] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> una hamburgesa
+[19:08:23] [Server thread/INFO]: [Not Secure] <BruceHL> el antiguo q tenia p xd
+[19:09:09] [Server thread/INFO]: [Not Secure] <BruceHL> peru
+[19:09:13] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xdddddddddd
+[19:09:24] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> comida
+[19:10:32] [Server thread/INFO]: [Not Secure] <BruceHL> donde stas
+[19:10:33] [Server thread/INFO]: [Not Secure] <BruceHL> xd
+[19:10:53] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> teclado de mierda
+[19:11:19] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> pers
+[19:11:22] [Server thread/INFO]: [Not Secure] <BruceHL> comida
+[19:11:25] [Server thread/INFO]: Villager byb['Villager'/2894, l='ServerLevel[world]', x=-305.37, y=91.00, z=358.28] died, message: 'Villager suffocated in a wall'
+[19:11:27] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xci
+[19:11:44] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> tengo una polla
+[19:11:50] [Server thread/INFO]: [Not Secure] <BruceHL> xd
+[19:13:06] [Server thread/INFO]: [Not Secure] <BruceHL> apega
+[19:13:40] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> 2 cora
+[19:13:44] [Server thread/INFO]: [Not Secure] <BruceHL> yo tmbxd
+[19:15:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-829, y=72, z=209} gu{x=-828, y=71, z=209}
+[19:15:53] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-840, y=68, z=201} gu{x=-841, y=67, z=201}
+[19:15:53] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-841, y=68, z=201} gu{x=-841, y=67, z=201}
+[19:15:53] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-840, y=68, z=201} gu{x=-841, y=67, z=201}
+[19:16:13] [Server thread/WARN]: TUPAPISLEYTER moved too quickly! 6.211338967920597,1.0,7.9171693563029635
+[19:16:20] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> bor
+[19:16:24] [Server thread/INFO]: [Not Secure] <BruceHL> dime
+[19:16:33] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> bto
+[19:16:36] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> lag xd
+[19:16:40] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> pera
+[19:17:06] [Server thread/INFO]: TUPAPISLEYTER lost connection: Timed out
+[19:17:06] [Server thread/INFO]: TUPAPISLEYTER left the game
+[19:17:35] [Server thread/INFO]: TUPAPISLEYTER[/127.62.31.12:45289] logged in with entity id 4613 at (-871.0305697793107, 64.0, 206.63149431651036)
+[19:17:35] [Server thread/INFO]: TUPAPISLEYTER joined the game
+[19:17:47] [Server thread/INFO]: TUPAPISLEYTER was slain by Zombie
+[19:17:49] [Server thread/INFO]: [Not Secure] <BruceHL> xd
+[19:18:07] [Server thread/INFO]: [Not Secure] <BruceHL> dontas
+[19:18:23] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> spaw
+[19:18:27] [Server thread/INFO]: [Not Secure] <BruceHL> xddddddddddd
+[19:18:30] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xdddddddddd
+[19:18:33] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> tp
+[19:19:02] [Server thread/INFO]: [Not Secure] <BruceHL> a
+[19:19:15] [Server thread/INFO]: Teleported TUPAPISLEYTER to BruceHL
+[19:19:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:19:21] [Server thread/INFO]: feed<--[HERE]
+[19:19:48] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> mis cosas?
+[19:19:52] [Server thread/INFO]: Unknown item 'minecraft:moriste'
+[19:19:52] [Server thread/INFO]: ...e Brdonde moriste<--[HERE]
+[19:19:56] [Server thread/INFO]: [Not Secure] <BruceHL> donde moriste
+[19:19:56] [Server thread/INFO]: [Not Secure] <BruceHL> xd
+[19:20:03] [Server thread/INFO]: Unknown item 'minecraft:fish'
+[19:20:03] [Server thread/INFO]: ...e brucehl fish<--[HERE]
+[19:20:11] [Server thread/INFO]: Unknown item 'minecraft:oak'
+[19:20:11] [Server thread/INFO]: ...e brucehl oak<--[HERE]
+[19:20:20] [Server thread/INFO]: Unknown item 'minecraft:oak'
+[19:20:20] [Server thread/INFO]: ...e brucehl minecraft:oak<--[HERE]
+[19:20:30] [Server thread/INFO]: Unknown item 'minecraft:wood'
+[19:20:30] [Server thread/INFO]: ...e brucehl wood<--[HERE]
+[19:22:24] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xd
+[19:22:40] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> corre furest
+[19:22:49] [Server thread/INFO]: BruceHL has made the advancement [Suit Up]
+[19:22:50] [Server thread/INFO]: BruceHL has made the advancement [Ice Bucket Challenge]
+[19:23:12] [Server thread/INFO]: Villager byb['Villager'/5673, l='ServerLevel[world]', x=-1284.12, y=70.00, z=414.30] died, message: 'Villager was slain by Husk'
+[19:23:22] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> 1 cora
+[19:23:29] [Server thread/INFO]: [Not Secure] <BruceHL> xd
+[19:23:45] [Server thread/INFO]: [Not Secure] <BruceHL> pq encerraste al zombii
+[19:23:45] [Server thread/INFO]: [Not Secure] <BruceHL> xdddd
+[19:23:51] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xd
+[19:24:16] [Server thread/INFO]: TUPAPISLEYTER was pricked to death
+[19:24:20] [Server thread/INFO]: [Not Secure] <BruceHL> xddddddddddddddddddddddddddd
+[19:24:22] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xd
+[19:24:46] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> aver di mu
+[19:25:09] [Server thread/INFO]: BruceHL was slain by Husk
+[19:25:11] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> el
+[19:25:15] [Server thread/INFO]: [Not Secure] <BruceHL> a
+[19:25:17] [Server thread/INFO]: [Not Secure] <BruceHL> q
+[19:25:25] [Server thread/INFO]: TUPAPISLEYTER has made the advancement [Ice Bucket Challenge]
+[19:25:25] [Server thread/INFO]: TUPAPISLEYTER has made the advancement [Suit Up]
+[19:25:29] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xd
+[19:25:36] [Server thread/INFO]: Incorrect argument for command
+[19:25:36] [Server thread/INFO]: tp tu brucehl tupapisleyter<--[HERE]
+[19:25:41] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> tp
+[19:26:05] [Server thread/INFO]: Teleported BruceHL to TUPAPISLEYTER
+[19:26:11] [Server thread/INFO]: TUPAPISLEYTER has made the advancement [Monster Hunter]
+[19:26:16] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> toms
+[19:26:22] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> tus cosas
+[19:26:36] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> t
+[19:27:10] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> A
+[19:27:18] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> DAME PIEDRA
+[19:28:01] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> HAORA
+[19:28:07] [Server thread/INFO]: [Not Secure] <BruceHL> secuestralos
+[19:28:35] [Server thread/INFO]: TUPAPISLEYTER has made the advancement [Acquire Hardware]
+[19:28:51] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> MADERA
+[19:30:24] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> LAG
+[19:30:27] [Server thread/INFO]: [Not Secure] <BruceHL> xd
+[19:30:37] [Server thread/INFO]: TUPAPISLEYTER lost connection: Timed out
+[19:30:37] [Server thread/INFO]: TUPAPISLEYTER left the game
+[19:30:40] [Server thread/INFO]: TUPAPISLEYTER[/127.62.31.12:41941] logged in with entity id 8204 at (-1274.8165263323976, 72.41999998688698, 432.60401611966347)
+[19:30:40] [Server thread/INFO]: TUPAPISLEYTER joined the game
+[19:31:11] [Server thread/INFO]: TUPAPISLEYTER lost connection: Timed out
+[19:31:11] [Server thread/INFO]: TUPAPISLEYTER left the game
+[19:31:46] [Server thread/INFO]: TUPAPISLEYTER[/127.62.31.12:49999] logged in with entity id 8341 at (-1274.8165263323976, 72.41999998688698, 432.60401611966347)
+[19:31:46] [Server thread/INFO]: TUPAPISLEYTER joined the game
+[19:32:57] [Server thread/INFO]: [Not Secure] <BruceHL> sexo drop
+[19:33:02] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xd
+[19:33:07] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> haora
+[19:33:10] [Server thread/INFO]: [Not Secure] <BruceHL> go gym
+[19:33:18] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xdddddddddddddd
+[19:33:20] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> wwwwwww
+[19:33:36] [Server thread/INFO]: [Not Secure] <BruceHL> cuanto está el dia en su gym del snyder
+[19:33:49] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> 100
+[19:33:53] [Server thread/INFO]: [Not Secure] <BruceHL> el dia coño
+[19:34:01] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> 8 creo
+[19:34:08] [Server thread/INFO]: BruceHL has made the advancement [Acquire Hardware]
+[19:34:09] [Server thread/INFO]: [Not Secure] <BruceHL> aver
+[19:34:14] [Server thread/INFO]: [Not Secure] <BruceHL> 8(4)
+[19:34:16] [Server thread/INFO]: [Not Secure] <BruceHL> 24
+[19:34:21] [Server thread/INFO]: [Not Secure] <BruceHL> 24(4)
+[19:34:28] [Server thread/INFO]: [Not Secure] <BruceHL> 96
+[19:34:36] [Server thread/INFO]: [Not Secure] <BruceHL> si vamos 4 dias
+[19:34:38] [Server thread/INFO]: [Not Secure] <BruceHL> pagando el dia
+[19:34:42] [Server thread/INFO]: [Not Secure] <BruceHL> nos ahorramos 4 soles
+[19:34:45] [Server thread/INFO]: [Not Secure] <BruceHL> a no
+[19:34:48] [Server thread/INFO]: [Not Secure] <BruceHL> soy autista
+[19:34:50] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> ci
+[19:34:55] [Server thread/INFO]: [Not Secure] <BruceHL> 8(4)
+[19:34:55] [Server thread/INFO]: [Not Secure] <BruceHL> 32
+[19:34:57] [Server thread/INFO]: [Not Secure] <BruceHL> 32 x 4
+[19:35:04] [Server thread/INFO]: [Not Secure] <BruceHL> 128
+[19:35:18] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> ya ves
+[19:35:27] [Server thread/INFO]: [Not Secure] <BruceHL> go gym
+[19:35:30] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> t
+[19:35:40] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> no hay plata
+[19:35:40] [Server thread/INFO]: [Not Secure] <BruceHL> ta
+[19:35:42] [Server thread/INFO]: [Not Secure] <BruceHL> a
+[19:35:44] [Server thread/INFO]: [Not Secure] <BruceHL> si hay
+[19:35:49] [Server thread/INFO]: [Not Secure] <BruceHL> lo vas a cortar al alexito
+[19:36:00] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> haorro
+[19:36:12] [Server thread/INFO]: [Not Secure] <BruceHL> xd
+[19:36:13] [Server thread/INFO]: [Not Secure] <BruceHL> go gym
+[19:36:21] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> lo voy a pensal
+[19:36:28] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> k hacemis
+[19:36:29] [Server thread/INFO]: [Not Secure] <BruceHL> no se piensa
+[19:36:30] [Server thread/INFO]: [Not Secure] <BruceHL> go gym
+[19:36:59] [Server thread/INFO]: [Not Secure] <BruceHL> cuando vamos a probar ese gym
+[19:37:00] [Server thread/INFO]: [Not Secure] <BruceHL> 1 dia
+[19:37:15] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> avel
+[19:37:23] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> 18-6
+[19:37:30] [Server thread/INFO]: [Not Secure] <BruceHL> 12
+[19:37:36] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> eso me kda
+[19:37:41] [Server thread/INFO]: [Not Secure] <BruceHL> -8
+[19:37:42] [Server thread/INFO]: [Not Secure] <BruceHL> 4
+[19:37:53] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> pa la` haburgesa ñokda
+[19:37:57] [Server thread/INFO]: [Not Secure] <BruceHL> xd
+[19:38:04] [Server thread/INFO]: [Not Secure] <BruceHL> vamos a probar ese gym
+[19:38:36] [Server thread/INFO]: BruceHL has made the advancement [Sweet Dreams]
+[19:38:36] [Server thread/INFO]: TUPAPISLEYTER has made the advancement [Sweet Dreams]
+[19:38:57] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> est a aldea es fea
+[19:38:59] [Server thread/INFO]: [Not Secure] <BruceHL> ci
+[19:39:01] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> vamos a otra
+[19:39:02] [Server thread/INFO]: [Not Secure] <BruceHL> go gym
+[19:39:06] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xd
+[19:39:51] [Server thread/INFO]: [Not Secure] <BruceHL> go gta
+[19:40:02] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> no hay tieempo
+[19:40:05] [Server thread/INFO]: [Not Secure] <BruceHL> ci
+[19:40:30] [Server thread/INFO]: BruceHL was slain by TUPAPISLEYTER
+[19:40:34] [Server thread/INFO]: [Not Secure] <BruceHL> a
+[19:40:38] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xddddddddddddddddddd/
+[19:40:50] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> pa q te metes
+[19:41:18] [Server thread/INFO]: [Not Secure] <BruceHL> coords
+[19:42:08] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> bro
+[19:42:13] [Server thread/INFO]: [Not Secure] <BruceHL> dime
+[19:42:19] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> to bsilina
+[19:42:27] [Server thread/INFO]: [Not Secure] <BruceHL> xddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+[19:42:51] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> xddddddddddddddddddddddddddddddddddddd
+[19:43:17] [Server thread/INFO]: TUPAPISLEYTER lost connection: Timed out
+[19:43:17] [Server thread/INFO]: TUPAPISLEYTER left the game
+[19:43:28] [Server thread/INFO]: TUPAPISLEYTER[/127.62.31.12:55507] logged in with entity id 10733 at (-1491.9494336843416, 64.0, 518.7646896788305)
+[19:43:28] [Server thread/INFO]: TUPAPISLEYTER joined the game
+[19:43:40] [Server thread/INFO]: TUPAPISLEYTER lost connection: Disconnected
+[19:43:40] [Server thread/INFO]: TUPAPISLEYTER left the game
+[19:43:41] [Server thread/INFO]: TUPAPISLEYTER[/127.62.31.12:48865] logged in with entity id 10750 at (-1491.9494336843416, 64.0, 518.7646896788305)
+[19:43:41] [Server thread/INFO]: TUPAPISLEYTER joined the game
+[19:44:11] [Server thread/INFO]: TUPAPISLEYTER lost connection: Timed out
+[19:44:11] [Server thread/INFO]: TUPAPISLEYTER left the game
+[19:44:28] [Server thread/INFO]: TUPAPISLEYTER[/127.62.31.12:39575] logged in with entity id 10840 at (-1491.9494336843416, 64.0, 518.7646896788305)
+[19:44:28] [Server thread/INFO]: TUPAPISLEYTER joined the game
+[19:44:58] [Server thread/INFO]: TUPAPISLEYTER lost connection: Disconnected
+[19:44:58] [Server thread/INFO]: TUPAPISLEYTER left the game
+[19:45:41] [Server thread/INFO]: TUPAPISLEYTER[/127.62.31.12:32951] logged in with entity id 10972 at (-1491.9494336843416, 64.0, 518.7646896788305)
+[19:45:41] [Server thread/INFO]: TUPAPISLEYTER joined the game
+[19:46:12] [Server thread/INFO]: [Not Secure] <BruceHL> asd
+[19:46:17] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> sida
+[19:47:31] [Server thread/INFO]: [Not Secure] <BruceHL> donde
+[19:47:43] [Server thread/INFO]: [Not Secure] <TUPAPISLEYTER> dond q
+[19:51:26] [Server thread/INFO]: TUPAPISLEYTER lost connection: Timed out
+[19:51:26] [Server thread/INFO]: TUPAPISLEYTER left the game
+[19:52:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1399, y=64, z=596} gu{x=-1399, y=62, z=596}
+[19:52:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1398, y=64, z=598} gu{x=-1398, y=62, z=598}
+[19:52:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1397, y=64, z=599} gu{x=-1397, y=62, z=599}
+[19:52:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1394, y=64, z=601} gu{x=-1394, y=62, z=601}
+[19:52:23] [Server thread/INFO]: TUPAPISLEYTER[/127.62.31.12:56807] logged in with entity id 12234 at (-1387.2311101410971, 66.00133597911214, 505.70097706339567)
+[19:52:23] [Server thread/INFO]: TUPAPISLEYTER joined the game
+[19:52:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1389, y=64, z=603} gu{x=-1389, y=62, z=603}
+[19:52:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1389, y=64, z=603} gu{x=-1389, y=62, z=603}
+[19:52:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1388, y=64, z=603} gu{x=-1388, y=62, z=603}
+[19:52:53] [Server thread/INFO]: TUPAPISLEYTER lost connection: Timed out
+[19:52:53] [Server thread/INFO]: TUPAPISLEYTER left the game
